@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+SN2020jgl_20200528_redblu_094730.007.txt	-12499.727398726496	350.5251706727022

@@ -1,0 +1,26 @@
+# MJD (average of the points included, after clipping)
+# uJy (average of the points included after clipping)
+# duJy (error on the average point after clipping)
+# F (filter)
+# n (number of points included in the stacked detection, after
+# clipping)
+MJD,uJy,duJy,F,n
+58910.64,11.25,5.75,o,4
+58962.62,10.33,12.51,o,3
+58964.58,16.00,6.74,c,3
+58966.45,17.57,5.13,o,7
+58968.53,26.50,4.62,c,4
+58970.58,27.25,5.12,o,4
+58972.59,18.50,5.00,c,4
+58974.56,-0.50,8.12,o,4
+58976.54,-1.00,18.86,o,3
+58978.54,18.00,8.62,o,4
+58980.45,49.00,17.00,o,1
+58982.54,9.50,6.12,o,4
+58984.54,14.33,6.93,o,3
+58986.59,11.50,6.72,o,2
+58988.51,12.75,4.62,c,4
+58990.48,37.33,6.74,o,3
+58992.48,9.00,5.38,c,4
+58994.49,29.38,4.51,o,8
+58998.48,25.00,4.16,o,7

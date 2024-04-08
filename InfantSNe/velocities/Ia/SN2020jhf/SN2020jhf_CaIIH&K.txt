@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+SN2020jhf	-15927.208590631533	646.3483531947611

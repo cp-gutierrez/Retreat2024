@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+SN2020jgl_20200602_174459_SALT_v1.txt	-12158.907920803542	328.48093103955745

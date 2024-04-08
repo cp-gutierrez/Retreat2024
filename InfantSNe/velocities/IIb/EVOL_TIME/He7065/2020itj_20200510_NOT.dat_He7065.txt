@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+2020itj_20200510_NOT.dat	-7701.21506436862	747.2141089978468

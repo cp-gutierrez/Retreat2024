@@ -1,0 +1,87 @@
+--------2020itj - Ib--------
+ZTF: {'tmax': 58980.103, 'tmax_err': 2.228, 'Bmax': 19.259, 'Bmax_err': 0.129, 'dm15': 1.258, 'dm15_err': 0.212, 'colour': 0.168, 'colour_err': 0.15, 'sBV': 0.867, 'sBV_err': 0.133}
+ATLAS: cannot fit anything
+
+new:
+counts
+{'tmax': 58980.303, 'tmax_err': 2.816, 'Bmax': 19.198, 'Bmax_err': 0.187, 'dm15': 1.094, 'dm15_err': 0.26, 'colour': 0.246, 'colour_err': 0.197, 'sBV': 1.467, 'sBV_err': 0.133}
+
+not counts
+{'tmax': 58980.103, 'tmax_err': 7.0, 'Bmax': 19.315, 'Bmax_err': 0.724, 'dm15': 1.021, 'dm15_err': 1.033, 'colour': 0.12, 'colour_err': 0.95, 'sBV': 1.0, 'sBV_err': 0.133}
+
+--------2020jfo - II (ATLAS)--------
+ZTF: 
+ATLAS: {'tmax': 58980.827, 'tmax_err': 3.814, 'Bmax': 14.452, 'Bmax_err': 0.269, 'dm15': 0.875, 'dm15_err': 0.318, 'colour': -0.013, 'colour_err': 0.306, 'sBV': 1.0, 'sBV_err': 0.133}
+
+new:
+counts
+{'tmax': 58986.303, 'tmax_err': 4.718, 'Bmax': 14.467, 'Bmax_err': 0.215, 'dm15': 1.006, 'dm15_err': 0.252, 'colour': -0.071, 'colour_err': 0.239, 'sBV': nan, 'sBV_err': nan}
+
+not counts
+{'tmax': 58984.003, 'tmax_err': 18.607, 'Bmax': 14.707, 'Bmax_err': 1.289, 'dm15': 1.029, 'dm15_err': 1.829, 'colour': -0.072, 'colour_err': 1.598, 'sBV': 1.167, 'sBV_err': 0.133}
+
+
+--------2020jgl - Ia (ATLAS)--------
+ZTF: no datapoints
+ATLAS: no fit??? 
+
+new: 
+{'tmax': 58992.89, 'tmax_err': 18.607, 'Bmax': -1.577, 'Bmax_err': 1.282, 'dm15': 0.99, 'dm15_err': 1.809, 'colour': -0.199, 'colour_err': 1.979, 'sBV': 0.967, 'sBV_err': 0.133}
+2
+{'tmax': 58992.12, 'tmax_err': 2.026, 'Bmax': -1.12, 'Bmax_err': 0.076, 'dm15': 1.074, 'dm15_err': 0.112, 'colour': 0.193, 'colour_err': 0.129, 'sBV': 1.0, 'sBV_err': 0.1}
+
+--------2020jhf - Ia-91bg--------
+ZTF: {'tmax': 58992.989, 'tmax_err': 2.338, 'Bmax': 15.385, 'Bmax_err': 0.124, 'dm15': 1.029, 'dm15_err': 0.137, 'colour': 0.026, 'colour_err': 0.144, 'sBV': 0.933, 'sBV_err': 0.067}
+ATLAS: {'tmax': 58992.771, 'tmax_err': 2.11, 'Bmax': 15.415, 'Bmax_err': 0.072, 'dm15': 0.943, 'dm15_err': 0.19, 'colour': 0.022, 'colour_err': 0.086, 'sBV': 0.933, 'sBV_err': 0.067}
+
+new:
+counts
+{'tmax': 58992.29, 'tmax_err': 2.277, 'Bmax': 15.419, 'Bmax_err': 0.098, 'dm15': 1.218, 'dm15_err': 0.153, 'colour': -0.052, 'colour_err': 0.116, 'sBV': 1.1, 'sBV_err': 0.1}
+
+--------2020kjt - II--------
+ZTF: 
+ATLAS: no fit
+
+new:
+
+--------2020kku - Ia--------
+ZTF: {'tmax': 58996.1, 'tmax_err': 2.372, 'Bmax': 19.25, 'Bmax_err': 0.116, 'dm15': 1.031, 'dm15_err': 0.17, 'colour': 0.156, 'colour_err': 0.173, 'sBV': 0.9, 'sBV_err': 0.133}
+ATLAS: {'tmax': 58995.455, 'tmax_err': 2.372, 'Bmax': 19.439, 'Bmax_err': 0.086, 'dm15': 1.026, 'dm15_err': 0.209, 'colour': 0.28, 'colour_err': 0.094, 'sBV': 0.933, 'sBV_err': 0.1}
+
+new:
+counts
+{'tmax': 58995.6, 'tmax_err': 2.739, 'Bmax': 19.243, 'Bmax_err': 0.108, 'dm15': 0.941, 'dm15_err': 0.169, 'colour': 0.201, 'colour_err': 0.128, 'sBV': 0.867, 'sBV_err': 0.133}
+
+
+--------2020kyx - Ia--------
+ZTF: {'tmax': 59007.472, 'tmax_err': 1.795, 'Bmax': 16.786, 'Bmax_err': 0.054, 'dm15': 0.89, 'dm15_err': 0.085, 'colour': 0.114, 'colour_err': 0.067, 'sBV': 1.1, 'sBV_err': 0.067}
+ATLAS: no fit??
+
+new:
+counts
+{'tmax': 59007.372, 'tmax_err': 2.119, 'Bmax': 16.789, 'Bmax_err': 0.08, 'dm15': 0.873, 'dm15_err': 0.12, 'colour': 0.129, 'colour_err': 0.104, 'sBV': 1.0, 'sBV_err': 0.067}
+
+--------2020lao - Ic-BL--------
+ZTF: 
+ATLAS: {'tmax': 59007.272, 'tmax_err': 4.23, 'Bmax': 17.238, 'Bmax_err': 0.393, 'dm15': 1.434, 'dm15_err': 0.581, 'colour': 0.009, 'colour_err': 0.527, 'sBV': 1.533, 'sBV_err': 0.133}
+
+counts
+-
+not counts
+new: {'tmax': 59002.39, 'tmax_err': 18.607, 'Bmax': 18.518, 'Bmax_err': 1.557, 'dm15': 1.055, 'dm15_err': 2.214, 'colour': 0.201, 'colour_err': 1.893, 'sBV': 1.433, 'sBV_err': 0.133}
+
+--------2020nny - II--------
+ZTF: 
+ATLAS: {'tmax': 58987.595, 'tmax_err': 5.977, 'Bmax': 17.085, 'Bmax_err': 0.624, 'dm15': 0.983, 'dm15_err': 0.883, 'colour': 0.018, 'colour_err': 0.883, 'sBV': 0.967, 'sBV_err': 0.133}
+
+new:
+counts
+{'tmax': 59019.6, 'tmax_err': 10.315, 'Bmax': 19.977, 'Bmax_err': 0.192, 'dm15': 0.714, 'dm15_err': 0.227, 'colour': 0.329, 'colour_err': 0.205, 'sBV': 1.2, 'sBV_err': 0.133}
+
+--------2020rlj - Ia-91bg--------
+ZTF: {'tmax': 59087.701, 'tmax_err': 1.703, 'Bmax': 18.939, 'Bmax_err': 0.101, 'dm15': 1.891, 'dm15_err': 0.277, 'colour': 0.382, 'colour_err': 0.117, 'sBV': 0.5, 'sBV_err': 0.1}
+ATLAS: {'tmax': 59087.59, 'tmax_err': 3.808, 'Bmax': 18.684, 'Bmax_err': 0.096, 'dm15': 1.647, 'dm15_err': 0.159, 'colour': 0.303, 'colour_err': 0.111, 'sBV': 0.8, 'sBV_err': 0.133}
+
+new:
+counts
+{'tmax': 59087.601, 'tmax_err': 1.101, 'Bmax': 19.018, 'Bmax_err': 0.045, 'dm15': 1.99, 'dm15_err': 0.22, 'colour': 0.49, 'colour_err': 0.048, 'sBV': 0.433, 'sBV_err': 0.067}

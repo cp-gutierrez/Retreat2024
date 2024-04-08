@@ -1,0 +1,5 @@
+band mmax emmax tmax etmax dm15 edm15 
+ATLAS_c nan nan nan nan nan nan
+ATLAS_o 13.669502506101708 0.3604707649523739 58986.51999999982 1.1999999999825377 0.5444053096853381 2.3684718999206926
+
+{'tmax': 58995.79, 'tmax_err': 6.891, 'Bmax': 13.243, 'Bmax_err': 1.679, 'dm15': 1.351, 'dm15_err': 3.723, 'colour': -0.169, 'colour_err': 2.099, 'sBV': 1.026, 'sBV_err': 0.166}
