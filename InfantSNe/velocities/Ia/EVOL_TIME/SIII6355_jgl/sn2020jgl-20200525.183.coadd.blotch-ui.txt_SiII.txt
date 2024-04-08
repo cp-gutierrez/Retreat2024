@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+sn2020jgl-20200525.183.coadd.blotch-ui.txt	-12767.929527674642	43.36954333374508

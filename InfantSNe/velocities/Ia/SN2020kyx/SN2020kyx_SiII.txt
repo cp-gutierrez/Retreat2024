@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+SN2020kyx	-14663.290430606947	185.46951949162715

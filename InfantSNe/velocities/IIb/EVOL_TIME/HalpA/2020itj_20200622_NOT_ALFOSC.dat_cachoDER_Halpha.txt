@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+2020itj_20200622_NOT_ALFOSC.dat	-10505.225554297642	568.3834152821331

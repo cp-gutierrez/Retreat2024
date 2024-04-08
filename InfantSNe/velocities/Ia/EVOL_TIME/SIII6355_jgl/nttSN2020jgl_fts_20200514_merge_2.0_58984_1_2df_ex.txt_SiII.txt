@@ -1,0 +1,2 @@
+Supernova	Mean Velocity	Standard Deviation
+nttSN2020jgl_fts_20200514_merge_2.0_58984_1_2df_ex.txt	-15054.831145787732	104.5532483388139
